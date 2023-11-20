@@ -111,7 +111,9 @@ body {
   .mb-mobile {
     margin-bottom: 18px;
 }
-
+  .bd-image{
+     margin-bottom: 20px;
+  }
   .topnav.responsive .icon {
     position: absolute;
     right: 0;
