@@ -108,6 +108,9 @@ body {
   .topnav.responsive {
     position: relative;
   }
+  .mb-mobile {
+    margin-bottom: 18px;
+}
 
   .topnav.responsive .icon {
     position: absolute;
